@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fishmote</string>
+
+    <string-array name="brew_array">
+        <item>Select</item>
+    <item>0 - No feed</item>
+    <item>1 - Below Normal</item>
+    <item>2 - Normal</item>
+    <item>3 - Above Normal</item>
+    <item>4 - Max</item>
+    </string-array>
+    <string name="apply_btn">Apply</string>
+
+
+    <string name="set_temp">Set the temperature:</string>
+    <string name="select_feed">Select the level of the Feed:</string>
+    <string name="back">Back</string>
+    <string name="set_time">Select time to feed</string>
+    <string name="set_height">Set Height</string>
+    <string name="aq_height">Height of aquarium:</string>
+    <string name="heat_status">Heat Status:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="water_level">Water level:</string>
+    <string name="feedtime">Feedtime</string>
+    <string name="welcome">Welcome in Fishmote</string>
+    <string name="cm">CM</string>
+
+</resources>
